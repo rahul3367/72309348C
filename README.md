@@ -1,5 +1,7 @@
-1.Logging middleware is working correctly.
-![alt text](image.png)
+Successfully added the README, system design, and `.gitignore` files.
 
-2. System Design File Addedd Succesfully
-![alt text](image-1.png)
+1. The logging middleware is working correctly.
+   ![alt text](image.png)
+
+2. The system design file was added successfully.
+   ![alt text](image-1.png)
